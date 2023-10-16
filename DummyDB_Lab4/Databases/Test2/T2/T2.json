@@ -1,0 +1,21 @@
+{
+  "name": "T2",
+  "columns": [
+    {
+      "name": "№",
+      "type": "int",
+    },
+    {
+      "name": "Фамилия",
+      "type": "string",
+    },
+    {
+      "name": "Имя",
+      "type": "string",
+    },
+    {
+      "name": "Оклад",
+      "type": "int",
+    }
+  ]
+}

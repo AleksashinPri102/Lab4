@@ -1,0 +1,17 @@
+{
+  "name": "T4",
+  "columns": [
+	{
+      	"name": "Категория",
+      	"type": "string",
+   	 },
+   	 {
+      	"name": "Марка",
+      	"type": "string",
+   	 },
+    	{
+      	"name": "Модель",
+      	"type": "string",
+    	}
+  ]
+}

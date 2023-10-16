@@ -1,0 +1,17 @@
+{
+  "name": "T3",
+  "columns": [
+    {
+      "name": "Наименование",
+      "type": "string",
+    },
+    {
+      "name": "Категория",
+      "type": "string",
+    },
+    {
+      "name": "Цена",
+      "type": "int",
+    }
+  ]
+}

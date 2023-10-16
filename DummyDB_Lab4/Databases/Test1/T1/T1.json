@@ -1,0 +1,21 @@
+{
+  "name": "T1",
+  "columns": [
+    {
+      "name": "№ Фактуры",
+      "type": "int",
+    },
+    {
+      "name": "№ Клиента",
+      "type": "float",
+    },
+    {
+      "name": "Имя",
+      "type": "string",
+    },
+    {
+      "name": "Сумма",
+      "type": "int",
+    }
+  ]
+}
